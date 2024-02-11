@@ -1,5 +1,0 @@
-toplist-format:
-  - "<pos>. {top-<pos>-prefix}{top-<pos>-name}{top-<pos>-suffix} {spacing-32} {top-<pos>-value}"
-
-embed-description:
-  - "{toplist}"
